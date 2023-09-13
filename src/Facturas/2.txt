@@ -1,0 +1,27 @@
+-------------------------
+FACTURA No. 2
+PRODUCTOS
+Nombre: juan carlos 
+Direccion: chapinero
+
+    Sin piña
+    15 cal
+    -->$0.0
+
+    Adicion de tocineta express
+    541 cal
+    -->$2500.0
+
+    agua cristal con gas
+    0 cal
+    -->$5000.0
+
+    Sprite
+    200 cal
+    -->$5000.0
+
+Calorias Totales: 756
+Costo Neto 12500
+IVA 2375.0
+Costo Total 14875.0
+-------------------------

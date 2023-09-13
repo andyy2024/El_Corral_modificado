@@ -1,0 +1,19 @@
+-------------------------
+FACTURA No. 1
+PRODUCTOS
+Nombre: asdf
+Direccion: asdf
+
+    gaseosa
+    200 cal
+    -->$5000.0
+
+    combo especial
+    850 cal
+    -->$32085.0
+
+Calorias Totales: 1050
+Costo Neto 37085
+IVA 7046.15
+Costo Total 44131.15
+-------------------------

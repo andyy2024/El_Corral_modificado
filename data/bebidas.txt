@@ -1,0 +1,9 @@
+Coca-cola;5000;200
+Pepsi;5000;200
+Manzana Postobon;5000;200
+Agua Manantial;5000;0
+Sprite;5000;200
+Colombiana;5000;200
+Club Colombia;200;100
+agua cristal sin gas;5000;0
+agua cristal con gas;5000;0
